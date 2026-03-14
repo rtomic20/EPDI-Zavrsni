@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs grep:*)",
+      "Bash(grep:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(gh run:*)",
+      "Bash(cat:*)",
+      "Bash(curl:*)",
+      "Bash(ssh:*)",
+      "Bash(scp:*)",
+      "Bash(\"C:\\\\Users\\\\Lenovo.DESKTOP-7HJOOS6\\\\Desktop\\\\ShipChandler\\\\Progress.md\":*)"
+    ]
+  }
+}
