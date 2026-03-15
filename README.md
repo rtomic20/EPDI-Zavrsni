@@ -27,7 +27,7 @@ EPDIProjekt/
 ├── requirements.txt
 ├── scraper.py        ← Skida tečajeve s eduza.hr
 ├── indexer.py        ← Gradi vektorsku bazu
-├── recommender.py    ← AI engine (Gemini + ChromaDB)
+├── recommender.py    ← AI engine (Groq + ChromaDB)
 ├── app.py            ← Streamlit UI
 ├── tecajevi.json     ← Skinuti tečajevi (auto)
 └── chroma_db/        ← Lokalna vektorska baza (auto)
